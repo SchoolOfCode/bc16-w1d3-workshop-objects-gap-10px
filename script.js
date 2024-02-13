@@ -36,3 +36,8 @@ let gap10px = {
   Arseniy,
   Gav,
 }
+
+for (footballTeams in Gav.specialNote)  {
+    console.log(Gav.specialNote[footballTeams]);
+}
+
