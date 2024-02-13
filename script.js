@@ -30,3 +30,9 @@ let Gav = {
     highSchool: "Wanstead",
   },
 };
+
+let gap10px = {
+  Pete,
+  Arseniy,
+  Gav,
+}
